@@ -10,7 +10,13 @@ The format is simplified version of [Keep a Changelog](https://keepachangelog.co
 
 ## [Unreleased]
 
+## [1.10.0]
+
 ### Additions
+- Add text/novel reader mode with seamless scroll
+  - New "Text (Novel)" reading mode, auto-selected for text sources
+  - Text preferences: text size, line spacing and text color
+- Rebrand to Yūrei, installable alongside Yōkai
 - Add random library sort
 - Add the ability to save search queries
 - Add toggle to enable/disable hide source on swipe (@Hiirbaf)
